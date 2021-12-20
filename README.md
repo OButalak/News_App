@@ -1,6 +1,7 @@
 # news
 
 A new Flutter project.
+use a public API for news the USA.
 
 ## Getting Started
 
